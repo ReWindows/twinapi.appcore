@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "targets": [
+    {
+      "target": "twinapi.appcore",
+      "file": "twinapi.appcore.dll",
+      "index": "twinapi.appcore/index.json",
+      "latest": "1192642877-1696BCDD46FC1EEE12BFAD0258C61170-1",
+      "build_count": 1
+    }
+  ]
+}

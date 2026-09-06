@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "target": "twinapi.appcore.dll",
+  "latest": "1192642877-1696BCDD46FC1EEE12BFAD0258C61170-1",
+  "builds": [
+    {
+      "key": "1192642877-1696BCDD46FC1EEE12BFAD0258C61170-1",
+      "timestamp": "1192642877",
+      "pdb_guid": "1696BCDD46FC1EEE12BFAD0258C61170",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1192642877-1696BCDD46FC1EEE12BFAD0258C61170-1/ir.json",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ]
+}
